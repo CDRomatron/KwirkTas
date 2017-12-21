@@ -1,0 +1,4 @@
+SystemID GB
+02BF	b	u	0	WRAM	Current room ID
+02EC	b	u	0	WRAM	Randomiser
+
