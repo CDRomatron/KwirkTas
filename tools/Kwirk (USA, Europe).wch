@@ -1,4 +1,9 @@
 SystemID GB
 02BF	b	u	0	WRAM	Current room ID
 02EC	b	u	0	WRAM	Randomiser
+02D2	b	u	0	WRAM	Direction
+02E7	b	u	0	WRAM	Movement countdown
+0F34	b	u	0	WRAM	Is moving
+02BB	b	u	0	WRAM	Room count
+02EA	b	h	0	WRAM	Steps count
 
